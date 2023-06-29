@@ -1,0 +1,6 @@
+﻿  正在產生程式碼
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\0810a\Documents\档案\微信远控\BOT\main.cpp(398): warning C4172: 傳回區域變數或暫存的位址: name
+  All 385 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  BOT.vcxproj -> C:\Users\0810a\Documents\档案\微信远控\BOT\x64\Release\BOT.exe
